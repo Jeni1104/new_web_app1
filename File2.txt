@@ -1,0 +1,6 @@
+Display
+Remove
+add grocery
+get the paper
+clean the bag
+add new item
